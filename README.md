@@ -1,8 +1,6 @@
 # LEARNING-MULTI-RATE-VECTOR-QUANTIZATION-FOR-REMOTE-DEEP-INFERENCE
 Multi-rate remote deep inference scheme, which trains a single encoder-decoder model that uses learned vector quantizers while supporting different quantization levels.
 
-# Vector Quantized Variational Autoencoder
-
 This is a PyTorch implementation of the 'Learning Multi-Rate Vector Quantization for Remote Deep Inference', by May Malka, Shai Ginzach, and Nir Shlezinger.
 
 ## Running the VQ VAE
