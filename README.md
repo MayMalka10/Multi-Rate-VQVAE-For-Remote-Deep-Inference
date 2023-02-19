@@ -3,7 +3,7 @@ Multi-rate remote deep inference scheme, which trains a single encoder-decoder m
 
 This is a PyTorch implementation of the 'Learning Multi-Rate Vector Quantization for Remote Deep Inference', by May Malka, Shai Ginzach, and Nir Shlezinger.
 
-## Running the VQ VAE
+## Running
 
 To run the code simply run `AdaptiveCodebook.py`. You can also add parameters in the command line. The default values are defined at the Globals&Hyperparameter section in AdaptiveCodebook.py.
 
