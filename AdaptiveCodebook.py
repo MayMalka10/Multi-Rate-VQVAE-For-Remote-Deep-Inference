@@ -7,7 +7,7 @@
 ''' Here the implementation of Learning Multi-Rate Vector Quantization for Remote Deep Inference by
 May Malka, Shai Ginzach, and Nir Shlezinger
 
-For further question: maymal@post.bgu.ac.il
+For further questions: maymal@post.bgu.ac.il
 '''
 
 ###################################################################################################
